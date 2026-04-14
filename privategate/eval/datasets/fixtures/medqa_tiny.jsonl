@@ -1,0 +1,1 @@
+{"id": "med-1", "text": "Patient MRN: 1234567 has type 2 diabetes and asks about diet changes.", "spans": [{"start": 8, "end": 20, "category": "MEDICAL", "risk": "high"}, {"start": 25, "end": 40, "category": "MEDICAL", "risk": "high"}], "task": "qa", "question": "What diet should this patient follow?", "reference_answer": "low-carb mediterranean diet"}
