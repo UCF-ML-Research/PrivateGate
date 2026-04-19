@@ -1,2 +1,0 @@
-{"id": "tab-1", "text": "The defendant John Adams resides at 221B Baker Street.", "spans": [{"start": 14, "end": 24, "category": "IDENTIFIER", "risk": "high"}, {"start": 36, "end": 53, "category": "PERSONAL_CONTEXT", "risk": "medium"}], "task": "generative"}
-{"id": "tab-2", "text": "Plaintiff Mary Wong filed suit on 03/15/2019.", "spans": [{"start": 10, "end": 19, "category": "IDENTIFIER", "risk": "high"}, {"start": 34, "end": 44, "category": "IDENTIFIER", "risk": "high"}], "task": "generative"}
